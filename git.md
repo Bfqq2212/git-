@@ -1,4 +1,5 @@
 [GoGoCode的仓库](https://github.com/thx/gogocode/)
+[B站的学习视频](https://www.bilibili.com/video/BV1db4y1d79C?t=1298)
 
 # 用到的命令：
 
